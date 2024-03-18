@@ -1,0 +1,11 @@
+path: /home/daniel/repos/roads
+train: datasets/train/images
+val: datasets/val/images
+
+#Classes
+names:
+    0: D00
+    1: D10
+    2: D20
+    3: D30
+    4: D40

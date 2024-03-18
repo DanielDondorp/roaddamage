@@ -1,0 +1,10 @@
+jupyterlab
+ipywidgets
+numpy
+matplotlib
+scikit-image
+pandas
+opencv-python
+ultralytics
+xmltodict
+tqdm
